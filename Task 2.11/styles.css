@@ -1,0 +1,11 @@
+.blueBlock {
+    background-color: aqua;
+    border:1.5px solid green;
+    width:100%;
+    height:265px;
+}
+
+.img {
+    float:right;
+}
+

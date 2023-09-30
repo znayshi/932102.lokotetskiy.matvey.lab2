@@ -1,0 +1,17 @@
+p{
+    color: white;
+
+
+}
+div{
+    width:600px;
+    margin:auto;
+    background-color: blue;
+
+}
+
+.img{
+    float: right;
+    padding-left: 15px;
+    padding-bottom: 15px;
+}

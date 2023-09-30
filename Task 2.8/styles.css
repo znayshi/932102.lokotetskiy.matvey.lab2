@@ -1,0 +1,29 @@
+.list {
+    z-index:1;
+    background-color: bisque;
+    width:200px;
+    height:90px;
+    position:absolute;
+}
+
+ul {
+    padding-top:10px;
+
+}
+
+p {
+    padding-left:200px;
+    margin:0;
+}
+
+.blueBlock {
+    background-color: aqua;
+    height:100%;
+    width:200px;
+    position: absolute;
+}
+
+.textBlock {
+    background-color: darkgray;
+    position: fixed;
+}

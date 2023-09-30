@@ -1,0 +1,13 @@
+.container{
+    max-width: 600px;
+    background-color: blue;
+    display: inline-block;
+}
+
+p{
+    color: white;
+}
+
+* {
+    text-align: center; 
+}

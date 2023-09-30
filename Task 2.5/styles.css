@@ -1,0 +1,15 @@
+.firstBox {
+    background-color: green;
+}
+
+.secondBox {
+    background-color: blue;
+    border: 20px solid blue;
+    padding: 20px; 
+}
+
+div {
+    width:500px;
+    margin:auto;
+    color:white;
+}

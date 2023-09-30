@@ -1,0 +1,11 @@
+div {
+    width:500px;
+    margin:auto;
+    color:black;
+}
+
+.secondBox {
+    border:10px solid blue;
+    padding:50px;
+    width:380px;
+}

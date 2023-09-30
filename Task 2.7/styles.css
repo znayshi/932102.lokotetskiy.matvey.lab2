@@ -1,0 +1,58 @@
+p {
+    color:white;
+}
+
+.divStatic {
+    background-color: #8a2be2;
+    width:150px;
+    height:100px;
+}
+
+.divRelative {
+    background-color: darkred;
+    width:150px;
+    height:100px;
+    position: relative;
+    bottom:17px;
+}
+
+.divRelative2 {
+    background-color: peru;
+    width:150px;
+    height:100px;
+    position: relative;
+    bottom:65px;
+    left:40px;
+
+}
+
+.divParent {
+    background-color: indianred;
+    width:600px;
+    height:400px;
+    position:relative;
+    bottom:50px;
+}
+
+.divRelativeParent {
+    background-color: indigo;
+    width:300px;
+    height:200px;
+    position: absolute;
+    left:300px;
+    top:140px;
+}
+
+.divRelativeParent p {
+    position:relative;
+    bottom: 15px;
+}
+
+.divFixed {
+    background-color: green;
+    width:100px;
+    height:80px;
+    position:fixed;
+    bottom:0;
+    right:0;
+}

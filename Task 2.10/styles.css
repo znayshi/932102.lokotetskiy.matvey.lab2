@@ -1,0 +1,11 @@
+.clearBox{
+    background-color: bisque;
+}
+
+.floatBox{
+    width: 200px;
+    height: 100px;
+    background-color: aquamarine;
+    float:bottom;
+    margin-left:15px;
+}

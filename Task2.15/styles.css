@@ -1,0 +1,10 @@
+.inline-block{
+    background-color: aquamarine;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+}
+p{
+    background-color: bisque;
+}
